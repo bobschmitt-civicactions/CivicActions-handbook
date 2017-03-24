@@ -12,8 +12,7 @@ CivicActions set a goal of developing individual Professional Development plans 
 We value Professional Development and Community Participation for a number of reasons:
 
 1. professional development provides career mobility for each person - increasing our feeling of safety, which leads to
-
-* having the courage to fail - which leads to experimentation, innovation, and learning
+⋅⋅1. having the courage to fail - which leads to experimentation, innovation, and learning
 * having the courage to challenge the status quo - which leads to organizational learning
 * having the courage to be vulnerable - which leads to authentic communications and connection
 * open minded thinking - which leads to increased tolerance of others ideas and personality styles
