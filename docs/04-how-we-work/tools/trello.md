@@ -1,16 +1,22 @@
 # Trello
 
-## TL;DR
+## Overview
 
-Trello is easy and intuitive. Install the extensions listed below, and you'll figure out everything else you need to know as you go along.
+Trello is easy and intuitive. Install the extensions listed in that section below, and you'll figure out everything else you need to know as you go along.
 
 If you like to live on the edge, skip this reading, but promise to come back in a week or two, maybe when you're a few days into a project that uses Trello, and read it.
+
+* Introduction [video](https://www.youtube.com/watch?v=aaDf1RqeLfo&feature=youtu.be)
 
 ## About Trello
 
 Trello is a collaborative task and project management tool that we use extensively at CivicActions. CivicActions has a free [team Trello account](https://trello.com/civicactions) that we utilize for both internal and client projects.
 
 Trello is very easy to use, and a robust featureset whose intuitve UI means the features don't get in the way of getting work done. It is well documented at <https://trello.com/guide>, but you probably won't need to read much documentation.
+
+* Review the getting started [guide](https://trello.com/guide)
+* "Use Trello like a Pro" [blog post](https://blog.trello.com/how-to-use-trello-like-a-pro)
+* Keyboard shortcuts are listed [here](https://trello.com/shortcuts) Or just use the “?” shortcut to bring up that page any time
 
 ## The Basics (Naming Conventions and the general idea).
 
@@ -58,11 +64,13 @@ The Trello integration for Slack is a great add-on for providing clickable summa
 
 * When you move a card to "Doing", assign yourself to it.
 * Don't have 5 cards in "Doing" at once (this is more of a Scrum principle than Trello principle).
-* Use [Markdown](http://help.trello.com/article/821-using-markdown-in-trello) in card descriptions (the first field on the back of the card)
+* Use [Markdown](http://help.trello.com/article/821-using-markdown-in-trello) in card descriptions (the first field on the back of the card).
+* Make at least one other person on the board have the admin permissions.
 * You can subscribe to a card (or even a whole board) without assigning yourself to that card. This will generate a lot of notifications, so use this wisely.
 * Take screenshots of Trello Boards before and after Sprints (you'll probably have to zoom WAY out in your browser to see the whole thing).
 * The Activity listin the right sidebar is great for getting the latest updates.
-* We have a set of Templates for how to set up Trello boards (search for Template at <https://trello.com/civicactions>).
+* We have a set of Templates for how to set up Trello boards (search for Template at <https://trello.com/civicactions>). Usually the green board background is reserved for the template boards. 
+* Make the background of the board a color that is consistent with the other boards for the same project.
 
 ## Tips and tricks
 

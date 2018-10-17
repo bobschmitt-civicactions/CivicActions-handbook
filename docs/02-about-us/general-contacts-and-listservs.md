@@ -2,38 +2,36 @@
 
 ## General Contacts
 
-* Pay-stubs, hiring paperwork, expense reimbursements: <a href="mailto:judy.raiten@civicactions.com">Judy Raiten</a>
-* Technical questions, specific project questions: <a href="mailto:owen.barton@civicactions.com">Owen Barton</a>
-* Non-technical questions, scrum & process questions: <a href="mailto:elizabeth.raley@civicactions.com">Elizabeth Raley </a>
-* Pod PMs: <a href="mailto:steve.curtis@civicactions.com">Steve Curtis</a> (Hydra), <a href="mailto:alaine.karoleff@civicactions.com">Alaine Karoleff</a> (Orion), <a href="mailto:jason.heaster@civicactions.com">Jason Heaster</a> (Pyxis)
+We have a fairly flat structure, so feel free to contact anyone who you think can answer your question. If that team member cannot, they will direct you to the person who can.
+
+* Pay-stubs, hiring paperwork, expense reimbursements: Judy Raiten
+* Technical questions, specific project questions: Owen Barton
+* Non-technical questions, scrum & process questions: Elizabeth Raley
+* HR related concerns or questions: First speak with your manager
+* Pod PMs: Steve Curtis (Hydra), Susie Bird (Vela), Jason Heaster (Pyxis), Ero Gray (Ursa)
+* Referring New Hires: Aaron Pava, Elizabeth Raley
+* Company Goals: Aaron Pava, Elizabeth Raley
+* Marketing related questions or ideas: Aaron Pava
+* Sales related questions or ideas: Bill Ogilvie
+* Conferences & professional development, prof dev stipend: Elizabeth Raley
+* Time-off, vacation, leave, sick time: Your PM, Alaine Karoleff, Elizabeth Raley
+* Personal, company or client security/compliance questions: Fen Labalme, Marc Jones
+* Support on professional development: Elizabeth Raley, Jason Heaster
+* When I'm concerned about something else: Owen Barton, Elizabeth Raley, Alaine Karoleff
 
 ## Team Contact Information
 
 * [CivicActions team roster](https://docs.google.com/spreadsheets/d/1mIuxn1pxwNjD2B9kpWgyT1NlAdlvPSZjGDNFvbi3aFs/edit#gid=0)
 
-## Listservs
+## Main Listservs
 
-### General
-
-* Team-wide communication: <mailto:ca-team@lists.civicactions.net>
-* Request PTO: <mailto:ca-timeoff@lists.civicactions.net>
-* HR Notices: <mailto:ca-employees@lists.civicactions.net>
-
-### Pods
-
-* Hydra: <mailto:ca-hydra@lists.civicactions.net>
-* Orion: <mailto:ca-orion@lists.civicactions.net>
-* Pyxis: <mailto:ca-pyxis@lists.civicactions.net>
-
-### Functional Groups
-
-* Engineering: <mailto:ca-dev@lists.civicactions.net>
-* Project Management: <mailto:ca-pm@lists.civicactions.net>
-* Sales: <mailto:ca-sales@lists.civicactions.net>
-* Marketing: <mailto:ca-marketing@lists.civicactions.net>
-
-### Projects
-
+* Team-wide communication: ca-team@civicactions.net
+* Request Timeoff: ca-timeoff@civicactions.net
+* HR Notices: ca-employees@civicactions.net
+* Engineering: ca-dev@civicactions.net
+* Project Management: ca-pm@civicactions.net
+* Sales: ca-sales@civicactions.net
+* Marketing: ca-marketing@civicactions.net
 * Every project has its own listserv, for example:
-  * <mailto:teach@lists.civicactions.net> (includes clients)
-  * <mailto:teach-int@lists.civicactions.net> (includes only CivicActions staff)
+    * projectname@civicactions.net (includes clients)
+    * projectname-int@civicactions.net (includes only CivicActions staff)
